@@ -1,4 +1,21 @@
 # codenation-notas-enem-2016
+
+## Getting Started
+Implementação de um python notebook para resolver os problema de descoberta de nota do ENEM 2016, do desafio Codenation.
+
+## Instalando
+###Pré-requisitos
+* Python 3.8 (ou maior)
+* Virtualenv (Opcional)
+
+Dentro do diretorio do projeto, com o virtualenv ativado(opcional), execute os comandos abaixo.
+
+```bash
+$ pip install requirements.txt
+$ jupyter notebook
+```
+ 
+
 ## Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.

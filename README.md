@@ -4,7 +4,9 @@
 Implementação de um python notebook para resolver os problema de descoberta de nota do ENEM 2016, do desafio Codenation.
 
 ## Instalando
+
 ###Pré-requisitos
+
 * Python 3.8 (ou maior)
 * Virtualenv (Opcional)
 

@@ -5,7 +5,7 @@ Implementação de um python notebook para resolver os problema de descoberta de
 
 ## Instalando
 
-###Pré-requisitos
+### Pré-requisitos
 
 * Python 3.8 (ou maior)
 * Virtualenv (Opcional)
